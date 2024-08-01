@@ -2,6 +2,7 @@ Tools used
 Excel
 Power Bi
 Power point
+![Dashboardpic1](https://github.com/user-attachments/assets/7216cfef-3ab1-4b4c-85ca-57663e7b0a97)
 In this Spotify Music Analysis I have developed a comprehensive Power BI dashboard, the goal is to provide stakeholders with a user-friendly tool to analyze streaming trends, track performance metrics, and gain deeper insights into artist popularity
 Data Used: Spotify Dataset(Onyx)
 Key insights:
