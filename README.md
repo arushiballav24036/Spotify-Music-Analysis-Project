@@ -30,6 +30,7 @@ In this Spotify Music Analysis I have developed a comprehensive Power BI dashboa
 ![Dashboardpic1](https://github.com/user-attachments/assets/fd37a43e-2a32-4609-b512-1cff6d8ac8d2)
 
 #### Here is the demo of how Dashboard works:
+https://github.com/user-attachments/assets/31294159-7d1c-45a4-bbb4-bbb6e91a6de5
   
 ## Conclusion
 Transformation, and visualization using Excel and Power BI, I equipped valuable insights into music streaming trends and user behavior and ultimately supporting the strategic goals of artists, record labels, and music streaming services.
