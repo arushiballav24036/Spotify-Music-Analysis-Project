@@ -21,6 +21,8 @@ In this Spotify Music Analysis I have developed a comprehensive Power BI dashboa
 -	Developed bar charts to display daily streams, offering a detailed breakdown of streaming activity.
 -	Highlighting the most streamed tracks for each artist, along with detailed music information.
   
+#### Here is the snapshot after completion of this project
+  
 ### 🎨 Custom Canvas Background:
 -	Designed a visually appealing canvas background using PowerPoint to enhance the dashboard's aesthetic.
 -	Incorporated branding elements and a cohesive color scheme to create a professional and engaging visual experience.
